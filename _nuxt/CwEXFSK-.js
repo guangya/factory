@@ -1,0 +1,1 @@
+import{f as t,u as s,c as a,o as n,a as o,_ as p}from"./yoMgSZDT.js";const c={class:"home-page"},i=t({__name:"index",setup(r){return s({title:"首页"}),(_,e)=>(n(),a("div",c,e[0]||(e[0]=[o("h1",null,"Welcome to our Website",-1),o("p",null,"This is the home page of our Nuxt 4 application.",-1)])))}}),u=p(i,[["__scopeId","data-v-ef0745e3"]]);export{u as default};
