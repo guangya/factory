@@ -1,0 +1,1 @@
+import{_ as t,u as a,n as s,c as n,o as i,a as o}from"./DGZnXSEq.js";const c={class:"home-page"},p={__name:"index",setup(r){return a({title:"首页"}),s("/composition/"),(_,e)=>(i(),n("div",c,e[0]||(e[0]=[o("h1",null,"Welcome to our Website",-1),o("p",null,"This is the home page of our Nuxt 4 application.",-1)])))}},u=t(p,[["__scopeId","data-v-62e32a2f"]]);export{u as default};
